@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.rap.feature"
+      label="RAP Runtime"
+      version="3.0.0.20150602-0950"
+      provider-name="Eclipse.org - RAP">
+
+   <description url="http://www.eclipse.org/rap/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="RAP 3.0 Repository" url="http://download.eclipse.org/rt/rap/3.0/"/>
+   </url>
+
+   <plugin
+         id="org.eclipse.rap.rwt"
+         download-size="2854"
+         install-size="7083"
+         version="3.0.0.20150601-1556"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.rwt.osgi"
+         download-size="37"
+         install-size="81"
+         version="3.0.0.20150520-1707"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.jface"
+         download-size="1041"
+         install-size="2056"
+         version="3.0.0.20150520-1729"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.jface.databinding"
+         download-size="278"
+         install-size="557"
+         version="3.0.0.20150520-1729"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.ui"
+         download-size="159"
+         install-size="280"
+         version="3.0.0.20150602-0950"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.ui.forms"
+         download-size="299"
+         install-size="599"
+         version="3.0.0.20150520-1729"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.ui.views"
+         download-size="78"
+         install-size="145"
+         version="3.0.0.20150520-1729"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.ui.workbench"
+         download-size="3630"
+         install-size="7473"
+         version="3.0.0.20150529-1110"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.ui.cheatsheets"
+         download-size="323"
+         install-size="655"
+         version="3.0.0.20150508-1421"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.nebula.jface.gridviewer"
+         download-size="29"
+         install-size="57"
+         version="3.0.0.20150520-1707"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.nebula.widgets.grid"
+         download-size="101"
+         install-size="212"
+         version="3.0.0.20150529-1510"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.filedialog"
+         download-size="44"
+         install-size="77"
+         version="3.0.0.20150529-1303"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.rap.fileupload"
+         download-size="25"
+         install-size="44"
+         version="3.0.0.20150520-1707"
+         unpack="false"/>
+
+</feature>

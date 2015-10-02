@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="org.eclipse.emf.ecp.rap.util.feature.source" version="1.7.0.20150914-1619" plugin="org.eclipse.emf.ecp.rap.util" label="ECP RAP UI Integration incl. Sources" provider-name="%providerName">
+  <includes id="org.eclipse.emf.ecp.rap.util.feature" version="1.7.0.20150914-1619"/>
+  <description>
+      %description
+   </description>
+  <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+  <license url="%licenseURL">
+      %license
+   </license>
+  <plugin id="org.eclipse.emf.ecp.rap.util.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.ecp.ui.rap.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.rap.edit.ui.minimal.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.ecp.view.label.rap.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.ecp.view.util.swt.rap.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.ecp.core.rap.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.ecp.core.rap.sessionprovider.rwt.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="org.eclipse.emf.ecp.emfstore.core.rap.source" version="1.7.0.20150914-1619" download-size="0" install-size="0" unpack="false"/>
+</feature>
